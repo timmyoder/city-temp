@@ -1,0 +1,12 @@
+django
+psycopg2~=2.8.5
+whitenoise
+gunicorn
+dj-database-url
+
+loguru
+
+requests
+plotly
+numpy
+pandas
